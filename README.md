@@ -1,0 +1,1 @@
+I'm going to remake the google homepage, just how it looks. First thing I'll ever build in HTML, going to learn how to identify elements on a page and remake them!
